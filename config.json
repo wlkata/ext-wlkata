@@ -1,0 +1,33 @@
+{
+	"name": {
+		"zh-cn": "WLKATA",
+		"en": "WLKATA",
+		"ko": "WLKATA",
+		"ja": "WLKATA",
+		"fr": "WLKATA",
+		"de": "WLKATA"
+	},
+	"description": {
+		"zh-cn": "WLKATA机械臂控制模块",
+		"en": "WLKATA Robotic Arm Control Module",
+		"ko": "WLKATA 기계 팔 제어 모듈",
+		"ja": "WLKATAのロボットアーム制御モジュール",
+		"fr": "Module de contrôle du bras robotique WLKATA",
+		"de": "WLKATA Roboterarmsteuermodul"
+	},
+	"author": "WLKATA",
+	"email": "136645224@qq.com",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "WLKATA-Mirobot",
+	"platform": ["win"],
+	"version": "0.0.1",
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.0.1",
+			"board": ["mega2560"],
+			"main": "main.ts"
+		}
+	}
+}
