@@ -1,4 +1,8 @@
+#### Date of latest update: Jan 04 2024
 
+#### Published by: WLKATA Robotics
+
+License: MIT
 ---------------------------------------------------------
 
 ## Table of Contents
